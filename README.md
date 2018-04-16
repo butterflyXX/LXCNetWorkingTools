@@ -1,2 +1,0 @@
-# LXCNetWorkingTools
-fork from AFNetWorking
